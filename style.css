@@ -1,0 +1,56 @@
+* {
+  padding: 5px;
+  margin: 5px;
+  box-sizing: border-box;
+}
+div {
+  text-align: center;
+  text-decoration: none;
+}
+
+body {
+  font-size: 25px;
+  line-height: 1.5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #aae0d3;
+  color: #313030;
+  text-align: left;
+  padding: 0;
+}
+
+img {
+  margin: 0 auto;
+  display: flex;
+}
+main {
+  padding: 20px;
+}
+section {
+  border: 5px solid #d8a3a3;
+  border-radius: 20px;
+  padding: 0;
+}
+footer {
+  background-color: #b4b2b2;
+  color: #141313;
+  text-align: center;
+  border-radius: 20px;
+  padding: 15px 0;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+.historia,
+.Praia,
+.cultura,
+.Barcaxeira,
+.frevo,
+.Pontos {
+  text-align: center;
+}
